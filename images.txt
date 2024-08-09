@@ -1,2 +1,1 @@
-langgenius/dify-web:0.6.16
-langgenius/dify-api:0.6.16
+docker.io/rancher/k3s:v1.29.6-k3s2
