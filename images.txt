@@ -1,1 +1,1 @@
-docker.io/rancher/k3s:v1.29.6-k3s2
+ghcr.io/k3d-io/k3d-proxy:5.7.2
