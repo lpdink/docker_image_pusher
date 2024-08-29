@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tritonserver:24.07-py3
+v2ray/official:latest
