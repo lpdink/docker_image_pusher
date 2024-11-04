@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+gitea/gitea:1.22.3
