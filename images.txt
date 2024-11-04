@@ -1,1 +1,1 @@
-gitea/gitea:1.22.3
+postgres:14
