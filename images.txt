@@ -1,1 +1,1 @@
-freesurfer/freesurfer:latest
+freesurfer/freesurfer:7.4.1
