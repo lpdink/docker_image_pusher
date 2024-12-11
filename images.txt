@@ -1,1 +1,1 @@
-freesurfer/freesurfer
+freesurfer/freesurfer:latest
