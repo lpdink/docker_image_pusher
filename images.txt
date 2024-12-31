@@ -1,1 +1,1 @@
-freesurfer/freesurfer:7.4.1
+breakstring/gpt-sovits:latest
