@@ -1,1 +1,1 @@
-rancher/mirrored-pause:3.6
+python:3.12-slim
