@@ -1,4 +1,2 @@
-prom/prometheus:v3.5.0
-grafana/grafana:11.5
-oliver006/redis_exporter:v1.76.0-alpine
-bitnami/postgres-exporter:0.17.1
+prom/node-exporter:latest
+gcr.io/cadvisor/cadvisor:latest
