@@ -1,1 +1,1 @@
-tonistiigi/binfmt:master
+pgvector/pgvector:pg17
