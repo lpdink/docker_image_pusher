@@ -1,1 +1,1 @@
-swaggerapi/swagger-converter:v1.0.6-SNAPSHOT
+swaggerapi/swagger-converter:v1.0.5
