@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+docker pull swaggerapi/swagger-converter:v1.0.6-SNAPSHOT
