@@ -1,1 +1,1 @@
-swaggerapi/swagger-converter:v1.0.5
+openeuler/vllm-cpu:latest
