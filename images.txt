@@ -1,1 +1,1 @@
-openeuler/vllm-cpu:latest
+ghcr.io/sillytavern/sillytavern:latest
