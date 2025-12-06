@@ -1,1 +1,1 @@
-docker pull vllm/vllm-openai:v0.12.0
+vllm/vllm-openai:v0.12.0
