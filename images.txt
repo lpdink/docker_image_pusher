@@ -1,1 +1,1 @@
-ghcr.io/sillytavern/sillytavern:latest
+docker pull vllm/vllm-openai:v0.12.0
