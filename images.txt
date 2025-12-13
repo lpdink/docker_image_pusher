@@ -1,1 +1,2 @@
-binwiederhier/ntfy:v2.15
+golang:1.24.6-alpine
+alpine:latest
