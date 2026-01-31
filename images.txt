@@ -1,1 +1,1 @@
-ubuntu:latest
+docker.litellm.ai/berriai/litellm:main-latest
