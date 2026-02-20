@@ -1,1 +1,1 @@
-docker.litellm.ai/berriai/litellm:main-latest
+mlikiowa/napcat-docker:latest
