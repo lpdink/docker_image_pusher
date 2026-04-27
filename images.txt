@@ -1,1 +1,1 @@
-mlikiowa/napcat-docker:latest
+litellm/litellm:main-v1.83.10-stable
